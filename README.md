@@ -20,6 +20,7 @@ The graphs represent all the campaigns launch in different months and their succ
 The following elements which may help to the survey:
 1. The dataset should include the quality of the product which may or may not affect the number of backer count for the campaign.
 2. The dataset should state the deadline for the delivery of the products.
+3. The dataset should contain the information about the promotion of the products.
 ## Other possible graphs and pivot tables:
 Apart from the data represented through graphs made in this challenge, several other tables and graphs can be made through the same information.
 1.	A graph showing outliers from the crowdfunding data set.
