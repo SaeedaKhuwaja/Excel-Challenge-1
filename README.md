@@ -8,7 +8,6 @@ With reference to the above pivot table the highest number of campaigns were of 
 ![image](https://user-images.githubusercontent.com/83857632/215573765-1dea261e-7d56-46bb-a1b3-fa5a01fc86c6.png)
 
 ### Conclusion 2: The campaigns which have goal in between 15000 to 35000 have higher success ratio. 
-Figure 2
 ![image](https://user-images.githubusercontent.com/83857632/215590351-dce80529-6a77-4292-97b3-f923cf7683a3.png)
 
 The above graph represents the relation between the campaign goal with the ratio of successful, failed and canceled campaigns. This concludes that the campaigns who set their goals in between 15000 to 35000 tends to succeed in the campaign. Whereas the campaigns which had goal less than 15000 seems to have lower success ratio except for few. Also, the groups who canceled their campaigns had goals less than 10000 and more than 50000. 
